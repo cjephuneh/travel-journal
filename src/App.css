@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: 'Popping', sans-serif;
+}
+
+.nav{
+    height: 50px;
+    display: flex;
+    padding:20px 36px;
+    box-shadow: 0px 2.98256px 7px rgba(226, 9, 9, 0.1);
+    background-color: rgb(238, 54, 54);
+    color: #fff;
+    font-weight: thin;
+    align-items: center ;
+  
+}
+
+.trav{
+    font-weight: normal;
+    position: relative;
+    left: 40%;
+        
+}
+
+.logo{
+    width: 30px;
+    height: 30px;
+    padding: 0%;
+}
