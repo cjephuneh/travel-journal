@@ -10,7 +10,11 @@ function App() {
      <Hero />
      <Hero />
      <Hero />
+     <Hero />
+     <Hero />
+     <Hero />
 
+     
     </>
   )
 }

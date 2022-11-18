@@ -3,6 +3,8 @@ const Hero = () => {
     return(
         <div className="card">
             <img src='../norway.png' alt="" className="norway--logo" />
+            <img src='../Fill 219 (1).png' alt="" className="location" />
+
             <h1 className="japan">Japan</h1>
             <a href="https://goo.gl/maps/1DGM5WrWnATgkSNB8" target="_blank" className="maps">View on google maps</a>
             <h2 className="mount">Mount Fuji</h2>
