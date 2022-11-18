@@ -26,4 +26,6 @@ body{
     width: 30px;
     height: 30px;
     padding: 0%;
+    position: relative;
+    left: 39.5%;
 }
