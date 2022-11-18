@@ -29,3 +29,14 @@ body{
     position: relative;
     left: 39.5%;
 }
+.norway--logo{
+    position: absolute;
+    width: 125px;
+    height: 168px;
+    left: 40px;
+    top: 100px;
+}
+
+.card{
+    
+}
