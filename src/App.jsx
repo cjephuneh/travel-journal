@@ -7,6 +7,10 @@ function App() {
     <>
      <Navbar />
      <Hero />
+     <Hero />
+     <Hero />
+     <Hero />
+
     </>
   )
 }
