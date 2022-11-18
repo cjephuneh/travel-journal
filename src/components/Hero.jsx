@@ -1,5 +1,6 @@
 
-const Hero = () => {
+const Hero = (props) => {
+    console.log
     return(
         <div className="card">
             <img src='../norway.png' alt="" className="norway--logo" />
